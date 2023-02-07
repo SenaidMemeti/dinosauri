@@ -1,5 +1,5 @@
 {
-    "ckeanUrls": true,
+    "cleanUrls": true,
     "version": 2,
     "builds":[
         {
